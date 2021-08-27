@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Aug 2021 12:59:37 at https://www.sellmyhousenowusa.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sellmyhousenowusa.com/ -O1 "C:\Users\Zain Basharat\Desktop\Payoffer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:00:08	Error: 	"Forbidden" (403) at link https://www.sellmyhousenowusa.com/app/themes/carrot/dist/ (from https://www.sellmyhousenowusa.com/)
+13:01:12	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/c (from https://connect.facebook.net/en_US/fbevents.js)
+13:01:12	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/b (from https://connect.facebook.net/en_US/fbevents.js)
+13:01:12	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+13:01:15	Warning: 	Moved Permanently for https://www.sellmyhousenowusa.com/go/selling-to-a-professional/
+13:01:15	Warning: 	File has moved from https://www.sellmyhousenowusa.com/go/selling-to-a-professional/ to https://www.sellmyhousenowusa.com/go/selling-your-fort-myers-house-to-a-professional-house-buyer/
+13:01:22	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/avoiding-foreclosure/ (from https://www.sellmyhousenowusa.com/estero-2/)
+13:01:24	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/sell-your-house/ (from https://www.sellmyhousenowusa.com/avoiding-foreclosure-fort-myers/)
+13:09:06	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/go/we-buy-houses/ (from https://www.sellmyhousenowusa.com/blog/why-wont-my-house-sell-in-northport/)
+13:12:53	Error: 	"Not Found" (404) at link https://www.sellmyhousenowusa.com/blog/1586/ (from https://www.sellmyhousenowusa.com/blog/page/32/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 4 seconds : 1472 links scanned, 1462 files written (103090409 bytes overall) [64032666 bytes received at 66423 bytes/sec], 53931583 bytes transferred using HTTP compression in 1091 files, ratio 25%, 1.1 requests per connection
+(8 errors, 2 warnings, 0 messages)
